@@ -1,7 +1,9 @@
 body {
-  overflow-x: hidden;
   font-family: "Ubuntu";
   text-align: center;
+}
+html, body {
+  overflow-x: hidden;
 }
 .top-container {
   background-color: green;
