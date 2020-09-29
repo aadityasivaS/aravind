@@ -1,0 +1,98 @@
+body {
+  overflow-x: hidden;
+  font-family: "Ubuntu";
+  text-align: center;
+}
+.top-container {
+  background-color: green;
+  width: 100%;
+}
+.top-container h1 {
+  padding: 25px 0;
+  font-family: "Pacifico";
+  font-size: 50px;
+  color: #efff42;
+}
+.middle-container img {
+  margin-top: 25px;
+  margin-bottom: 50px;
+}
+.middle-container {
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+.bottom-container img {
+  width: 25%;
+}
+.hobbies-title {
+  padding-bottom: 45px;
+}
+h1 {
+  color: #66bfbf;
+}
+.game-gif {
+  float: left;
+  padding-right: 30px;
+}
+.gaming {
+  text-align: left;
+}
+.painting {
+  text-align: left;
+}
+.paint-gif {
+  float: left;
+  padding-right: 30px;
+}
+.contact-button {
+  /* background-color: #66bfbf; */
+  color: white;
+}
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+.button {
+  -webkit-border-radius: 12;
+  -moz-border-radius: 12;
+  border-radius: 12px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #66bfbf;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  border-style: none;
+}
+
+.button:hover {
+  background: #4e9999;
+  text-decoration: none;
+}
+.footer {
+  background-color: green;
+  color: #fff;
+}
+.footer h3 {
+  font-size: 20px;
+  margin-bottom: 0;
+  margin-top: 75px;
+  padding: 25px 0;
+}
