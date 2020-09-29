@@ -23,14 +23,14 @@ html, body {
   margin-top: 50px;
   margin-bottom: 100px;
 }
-.bottom-container img {
-  width: 25%;
-}
 .hobbies-title {
   padding-bottom: 45px;
 }
 h1 {
   color: #66bfbf;
+}
+.bottom-container img {
+  width: 20%;
 }
 .game-gif {
   float: left;
@@ -40,11 +40,11 @@ h1 {
   text-align: left;
 }
 .painting {
-  text-align: left;
+  text-align: right;
 }
 .paint-gif {
-  float: left;
-  padding-right: 30px;
+  float: right;
+  padding-left: 30px;
 }
 .contact-button {
   /* background-color: #66bfbf; */
