@@ -1,6 +1,7 @@
 body {
   font-family: "Ubuntu";
   text-align: center;
+  background-color: #d6e0f0;
 }
 html, body {
   overflow-x: hidden;
@@ -107,6 +108,13 @@ h1 {
 }
 .padded-content {
   padding: 0 15px;
+}
+.colour {
+  width: 100%;
+}
+.carousel-item img {
+  width: 50%;
+  height: 50%;
 }
 @media (max-width: 480px) {
   .middle-container img {
