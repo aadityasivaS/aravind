@@ -119,4 +119,7 @@ h1 {
     float: right;
     padding-left: 30px;
   }
+  .padded-content {
+    padding: 0 30px;
+  }
 }
