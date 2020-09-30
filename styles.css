@@ -108,7 +108,7 @@ h1 {
 .padded-content {
   padding: 0 15px;
 }
-@media (max-width: 650px) {
+@media (max-width: 480px) {
   .middle-container img {
     width: 50%;
   }
